@@ -1,3 +1,4 @@
 # Framework and libraries
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.11.0+cpu
+dvc==2.10.1
