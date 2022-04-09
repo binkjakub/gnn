@@ -1,0 +1,5 @@
+outs:
+- md5: b0d6402fa6dce48034c743e8777d05f4.dir
+  size: 15644862
+  nfiles: 4
+  path: citeseer
