@@ -1,0 +1,7 @@
+# Development requirements
+tox
+black
+pytest
+isort
+flake8
+mypy

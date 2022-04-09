@@ -1,0 +1,13 @@
+[tool.black]
+line-length = 100
+extend-exclude = "mk-data-science"
+
+[tool.isort]
+line_length = 100
+profile = "black"
+
+
+[tool.pytest.ini_options]
+testpaths = [
+    "tests",
+]
