@@ -1,4 +1,8 @@
 # Framework and libraries
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.11.0+cpu
+--find-links https://data.pyg.org/whl/torch-1.11.0+cpu.html
+torch-scatter==2.0.9
+torch-sparse==0.6.13
+torch-geometric==2.0.4
 dvc==2.10.1
